@@ -57,3 +57,5 @@ void pre_build(int idx) {
      }   
   
 }  
+//input:( + 1 ( - 20 3 ) )
+//output:1 20 3 - +
